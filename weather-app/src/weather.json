@@ -1,0 +1,26 @@
+{
+  "coord": { "lon": 89.2132, "lat": 23.1687 },
+
+  "weather": [{ "id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d" }],
+  "base": "stations",
+  "main": {
+    "temp": 306.26,
+    "feels_like": 312.59,
+    "temp_min": 306.26,
+    "temp_max": 306.26,
+    "pressure": 998,
+    "humidity": 59,
+    "sea_level": 998,
+    "grnd_level": 997
+  },
+
+  "visibility": 10000,
+  "wind": { "speed": 5.25, "deg": 125, "gust": 5.96 },
+  "clouds": { "all": 98 },
+  "dt": 1657006359,
+  "sys": { "country": "BD", "sunrise": 1656976920, "sunset": 1657025577 },
+  "timezone": 21600,
+  "id": 1336140,
+  "name": "Jessore",
+  "cod": 200
+}
